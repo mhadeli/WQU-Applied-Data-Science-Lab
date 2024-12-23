@@ -87,3 +87,7 @@ This repository showcases the eight data science projects completed as part of a
 
 ## Summary
 These projects demonstrate a diverse set of data science skills, including statistical modeling, machine learning, data engineering, and visualization. Each project highlights real-world applications and problem-solving techniques.
+
+---
+### Note
+The code content of the projects will not be uploaded due to copyright issues.
